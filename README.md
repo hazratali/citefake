@@ -1,4 +1,5 @@
-# Say NO to Fabricated Citations: A Multi-Layered Conceptual Framework
+# Say NO to Fabricated Citations:
+## A Multi-Layered Conceptual Framework
 This project provides a fabrication severity stack to categorize fabricated references, often a result of AI hallucinations.
 
 ## What is FSS
@@ -10,6 +11,8 @@ FSS refers to Fabrication Severity Stack.
 
 ## List of common citation verification tools
 
+## Verification workflow
+![verification](/assets/workflow.png)
 ## Link to submitted paper
 - [ ] Include a link to the PDF
 
