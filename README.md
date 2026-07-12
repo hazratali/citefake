@@ -10,6 +10,14 @@ FSS refers to Fabrication Severity Stack.
 ## What is the verification workflow
 
 ## List of common citation verification tools
+- GPTZero
+- SwanRef
+- CiteTrue https://citetrue.com/ 
+- CiteMe https://citeme.app/
+- Citely
+- CiteCheck https://citecheck.ai/
+- CiteSure 
+- MisciteBench
 
 ## Verification workflow
 ![verification](/assets/workflow.png)
