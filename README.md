@@ -1,5 +1,8 @@
 # Say NO to Fabricated Citations:
-## A Multi-Layered Conceptual Framework
+### A Multi-Layered Conceptual Framework
+
+# Zero-Cost Detection of Fabricated Citations: 
+## A Staged Heuristic Approach for Computing Dissertation Assessment
 This project provides a fabrication severity stack to categorize fabricated references, often a result of AI hallucinations.
 
 ## What is FSS
@@ -23,10 +26,13 @@ FSS refers to Fabrication Severity Stack.
 ![verification](/assets/workflow.png)
 
 ## Link to submitted paper
-- [ ] Include a link to the PDF
+The preprint is available on Arxiv: [Link here]
+
 
 ## Link to the Poster
-- [ ] include a link to the poster
+The poster was presented at the SICSA Conference 2026, held in Glasgow, UK. 
+The poster PDF can be accesss [here](/assets/poster-hazrat-sicsa.pdf).
+![Poster](/assets/poster.jpg)
 
 # Acknowledgements
 This project was undertaken as part of the [SICSA Learning & Teaching Scholars program](https://sicsa.ac.uk/education/learning-teaching-scholars/). We are grateful to the support provided by SICSA. 
