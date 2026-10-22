@@ -8,7 +8,6 @@ This project provides a fabrication severity stack to categorize fabricated refe
 ## What is FSS
 FSS refers to Fabrication Severity Stack. 
 
-- [ ] Include the FSS visual here
 
 ## What is the verification workflow
 
@@ -26,7 +25,7 @@ FSS refers to Fabrication Severity Stack.
 ![verification](/assets/workflow.png)
 
 ## Link to submitted paper
-The preprint is available on Arxiv: [Link here]
+The preprint is available on arXiv: [arXiv](https://arxiv.org/abs/2610.28649)
 
 
 ## Link to the Poster
